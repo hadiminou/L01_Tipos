@@ -1,0 +1,4 @@
+12345678Z,Juan,Lopez Garcia,20/7/1998
+12345679Y,Antonio,Lopez Lopez,3/11/1997
+12345670P,Sonia Estefania,Amor Gena,10/12/1988
+12345671R,Maria,Lora Santa,26/7/2002

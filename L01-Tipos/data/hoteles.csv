@@ -1,0 +1,20 @@
+nombre, direccion, ciudad, telefono, categoria, tipoAlojamiento, categoriaPrecio, puntuacion, fechaApertura, numComentarios, admiteMascotas, adaptado, latitud, longitud, puntuacion, cadenaHotelera
+Waldorf Astoria Beverly Hills, 9850 Wilshire Blvd, State of California, +1 310-860-6666, CINCO, HOTEL, LUJO, 9.1, 1345, true, true, 34.0659044, -118.4133911, Hilton
+Ritz-Carlton San Francisco, 600 Stockton St, San Francisco(State of California), +1 415-296-7465, CUATRO, HOTEL, ALTA, 8.9, 234, false, true, 37.7917196, -122.4075797, Marriott
+The Plaza Hotel, 768 5th Ave, New York (NY), +1 212-759-3000, CINCO, HOTEL, LUJO, 9.2,  543, true, true, 40.7637422, -73.9735777, Fairmont 
+Casa Encantada, 500 Chula Vista Ave, Santa Barbara (State of California), +1 805-687-5000, OTROS, HOTEL, MEDIA, 7.1, 194, false, true, 34.4342012, -119.6658226, Independent
+The Inn Above Tide, 30 El Portal, Sausalito (State of California), +1 415-332-9535, OTROS, HOTEL, LUJO, 9.6, 124, false, false, 37.8573685, -122.4813581, Independent
+Villa D'Este, Via Regina 40, Cernobbio, +39 031 3481, OTROS, HOTEL, LUJO, 9.3, 300, true, false, 45.8436576, 9.0735733, Independent
+Hostal El Mirador, Calle Mirador 12, Granada, +34 958 123456, OTROS, PENSION, BAJA, 7.8,  128, false, true, 37.173198, -3.603898, Independent
+Casa de la Abuela, Calle San Francisco 15, Oaxaca, +52 951 4567890, OTROS, BED_AND_BREAKFAST, MEDIA, 8.5,  215, true, false, 17.068165, -96.721261, Independent
+Hostal El Descanso, Carrer de la Font 9, Barcelona, +34 934 567890, OTROS, PENSION, MEDIA, 7.2, 92, true, false, 41.384248, 2.172127, Independent
+The Old Rectory Bed and Breakfast, Main St, Leitrim, +353 71 1234567, OTROS, BED_AND_BREAKFAST, BAJA, 9.0,  324, false, true, 54.156200, -8.067219, Independent
+Casa Blanca B&B, Calle 12 de Octubre 10, Cusco, +51 84 123456, OTROS, BED_AND_BREAKFAST, MEDIA, 8.2,  152, false, true, -13.516242, -71.978311, Independent
+Hotel San Francisco, Calle del Sol 5, Madrid, +34 910 123456, UNA, HOTEL, BAJA, 6.4, 98, false, true, 40.413819, -3.704771, Independent
+Apartamentos Los Geranios, Calle de los Geranios 12, Tenerife, +34 922 456789, OTROS, APARTAMENTO, MEDIA, 7.9,  212, true, true, 28.126218, -16.735122, Independent
+Hotel La Montaña, Carretera de la Montaña 7, Asturias, +34 985 123456, DOS, HOTEL, MEDIA, 8.2, 172, true, false, 43.305416, -5.666235, Independent
+Apartamentos del Sol, Calle del Sol 21, Valencia, +34 960 123456, OTROS, APARTAMENTO, ALTA, 9.1, 331, false, true, 39.468680, -0.377630, Independent
+Hotel de la Plaza, Plaza Mayor 5, Salamanca, +34 923 456789, TRES, HOTEL, ALTA, 8.7, 276, false, false, 40.964107, -5.661316, Independent
+Marriott Hotel Madrid Auditorium, Avenida de Aragón 400, Madrid, +34 917 345678, CUATRO, HOTEL, LUJO, 8.9, 515, false, true, 40.463978, -3.610191, Marriott International
+Hilton Barcelona Diagonal Mar, Avenida Diagonal 589-591, Barcelona, +34 932 123456, CINCO, HOTEL, LUJO, 9.5, 760, true, true, 41.402923, 2.204697, Hilton Worldwide
+InterContinental Madrid, Calle de Serrano 49, Madrid, +34 913 456789, CINCO, HOTEL, LUJO, 9.1, 678, false, true, 40.425123, -3.688325, InterContinental Hotels Group
